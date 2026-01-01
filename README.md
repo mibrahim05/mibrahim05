@@ -87,7 +87,8 @@
 
 ---
 
-*(More projects + deployment versions coming soon...)*
+More code, more models, more innovation incoming — powered by coffee & curiosity ☕💡🔥
+
 
 ---
 
@@ -103,10 +104,20 @@
 
 ## 🌐 Connect With Me
 
-📧 **mohammedibrahim0503@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mohammed-ibrahim0503/   
+<p align="left">
+<a href="mailto:mohammedibrahim0503@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohammed-ibrahim0503/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+ 
+---
 
 ---
 
-<p align="center"><b>⭐ If you like my work, please star a repo — it helps a lot!</b></p>
+<p align="center"><i>Building intelligence from data — not just models, but solutions 🚀📊</i></p>
+<p align="center">Let's connect and innovate 🤝</p>
+
 <p align="center">Thank you for visiting 🚀</p>
