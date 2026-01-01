@@ -1,47 +1,60 @@
-<!-- ===================== STATIC BANNER ===================== -->
+<!-- ===================== ANIMATED INTRO ===================== -->
+
+<h1 align="center">Hi, I'm <span style="color:#00E5FF;">Mohammed Ibrahim</span> 👋</h1>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Mohammed Ibrahim Banner" width="100%">
-</p>
-
-<!-- ===================== ANIMATED TITLE ===================== -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Mohammed+Ibrahim+👋;M.Sc+Data+Science+Student+at+VIT;Machine+Learning+%7C+Deep+Learning+%7C+AI;Data+Science+%7C+Analytics+%7C+Computer+Vision;Open+to%3A+Data+Scientist+%7C+Data+Analyst+%7C+Business+Analyst+%7C+ML+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=M.Sc+Data+Science+Student+%7C+VIT+Vellore;Machine+Learning+%7C+Deep+Learning+%7C+AI;Computer+Vision+%7C+Data+Analytics+%7C+EDA;Always+Learning+and+Building+🚀" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 🎓 **M.Sc Data Science Student — VIT Vellore**  
 🤖 Passionate about **Machine Learning, Deep Learning & Computer Vision**  
-📊 Skilled in **Python, SQL, EDA, Analytics & Model Building**  
+📊 Skilled in **Python, SQL, Visualization, Data Cleaning, EDA & ML Modelling**  
 💼 Former Intern at **Valeo India Pvt Ltd**  
-🔍 Love solving problems by turning data into decisions  
-🔥 Currently building ML/CV projects with deployment  
+🧠 I enjoy building solutions that extract insights and automate decisions  
+☁ Improving in **Deployment & Real-World ML Applications**
 
-> *"I transform data into intelligent insights and real value."*
+> *"Data is powerful. My goal is to turn data into intelligence."*
+
+</td>
+
+<td>
+
+<!-- 🔥 Dynamic Data Science GIF beside About Me -->
+<img src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="270px"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Open To Roles
 
-✔ Data Scientist  
-✔ Data Analyst  
-✔ Business Analyst  
-✔ Machine Learning Engineer  
+🔹 Data Scientist  
+🔹 Data Analyst  
+🔹 Business Analyst  
+🔹 Machine Learning Engineer  
 
 ---
 
 ## 🧠 Skills & Tools
 
-### 🔹 Languages & Databases  
+### 💻 Programming & DB  
 `Python` · `SQL` · `R` · `Java` · `C` · `MongoDB`
 
-### 🔹 ML / Data / Tools  
-`Pandas` · `NumPy` · `Scikit-Learn` · `TensorFlow` · `OpenCV`  
-`Power BI` · `Tableau` · `Jupyter Notebook` · `Git` · `GitHub`
+### 🤖 ML / Data  
+`Pandas` · `NumPy` · `Scikit-Learn` · `TensorFlow` · `OpenCV`
+
+### 🔧 Tools  
+`Jupyter` · `Git` · `GitHub` · `Tableau` · `Power BI`
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -60,43 +73,40 @@
 
 ---
 
-## 📂 Highlight Projects
+## 📂 Featured Projects
 
-### 🗑 Automated Waste Detection — YOLOv11 + OpenCV  
-🔹 Real-time detection of **15+ waste categories**  
-🔹 Deep Learning + Computer Vision  
-🔹 Tkinter GUI Integration  
+### 🗑 Automated Waste Detection — YOLOv11 + OpenCV
+✔ Real-time waste classification (15+ types)  
+✔ DL + GUI using Tkinter  
 
 ---
 
 ### 🧠 Mental Health Treatment Prediction  
-🔹 **82% accuracy using Stacking Model**  
-🔹 Feature engineering + model comparison  
-🔹 Python · Pandas · Sklearn  
+✔ Achieved **82% accuracy** using stacking classifier  
+✔ Complete EDA & model building workflow  
 
 ---
 
-*(More deployment-based projects coming soon…)*  
+*(More projects + deployment versions coming soon...)*
 
 ---
 
-## 📊 GitHub Stats (Stable Visual Cards)
+## 📊 GitHub Stats (Auto-Updating)
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mibrahim05&theme=tokyonight" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mibrahim05&theme=tokyonight" height="150"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mibrahim05&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mibrahim05&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mibrahim05&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: **mohammedibrahim0503@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/mohammed-ibrahim0503/**  
-💻 GitHub: **https://github.com/mibrahim05**  
+📧 **mohammedibrahim0503@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/mohammed-ibrahim0503/   
 
 ---
 
-<p align="center"><b>⭐ If you like my profile, leave a star — it motivates me!</b></p>
-<p align="center"><b>Thank you for visiting 🚀</b></p>
+<p align="center"><b>⭐ If you like my work, please star a repo — it helps a lot!</b></p>
+<p align="center">Thank you for visiting 🚀</p>
