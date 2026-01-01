@@ -36,13 +36,7 @@
 
 ---
 
-## 💼 Open To Roles
-
-🔹 Data Scientist  
-🔹 Data Analyst  
-🔹 Business Analyst  
-🔹 Machine Learning Engineer  
-
+ 
 ---
 
 ## 🧠 Skills & Tools
@@ -73,7 +67,12 @@
 
 ---
 
+## 💼 Open To Roles
 
+🧠 Data Scientist  
+📊 Data Analyst  
+📈 Business Analyst  
+🤖 Machine Learning Engineer 
 
 ---
 
