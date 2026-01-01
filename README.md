@@ -73,21 +73,25 @@
 
 ---
 
-## 📂 Featured Projects
 
-### 🗑 Automated Waste Detection — YOLOv11 + OpenCV
-✔ Real-time waste classification (15+ types)  
-✔ DL + GUI using Tkinter  
 
 ---
 
-### 🧠 Mental Health Treatment Prediction  
-✔ Achieved **82% accuracy** using stacking classifier  
-✔ Complete EDA & model building workflow  
+## 🚀 What I've Built
+
+🗑️ **Automated Waste Detection (YOLOv11 + OpenCV)**  
+Real-time classification of over **15+ waste types** using Deep Learning & Computer Vision.  
+Built with **YOLOv11, OpenCV & Tkinter** to display live detection feed.
 
 ---
 
-More code, more models, more innovation incoming — powered by coffee & curiosity ☕💡🔥
+🧠 **Mental Health Treatment Prediction (ML Classification)**  
+Achieved **82% accuracy** with a Stacking Classifier after EDA & feature engineering.  
+End-to-end ML workflow using **Python, Pandas, NumPy & Scikit-Learn**.
+
+---
+
+<p align="center"><i>More code, more models — innovation brewing with coffee & curiosity ☕💡🔥</i></p>
 
 
 ---
